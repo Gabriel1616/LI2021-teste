@@ -1,0 +1,21 @@
+    1  git clone https://github.com/Gabriel1616/LI2021-teste.git
+    2  git pull origin main
+    3  ls
+    4  cd LI2021-teste
+    5  ls
+    6  vi index.html
+    7  git add .
+    8  git commit -m "4ª tarefa"
+    9  git config --global user.email oliveira16162@gmail.com
+   10  git commit -m "4ª tarefa"
+   11  git push origin main
+   12  pwd
+   13  ls
+   14  cp index.html 
+   15  cp index.html disciplina.html
+   16  ls
+   17  vi disciplina.html
+   18  git add .
+   19  git commit -m "5ª tarefa"
+   20  git push origin main
+   21  history > meusComandos.txt
